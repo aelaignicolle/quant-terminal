@@ -210,7 +210,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/aelaignicolle/quant-terminal.git](https://github.com/aelaignicolle/quant-terminal.git)
+git clone https://github.com/aelaignicolle/quant-terminal.git
 cd quant-terminal
 ```
 
